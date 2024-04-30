@@ -9,7 +9,7 @@ construction of the application:
 react.js with typescript is used in building the application
 
 delopyment:
-deployed using netlify(deployment link:https://66315021f64c281ed09a49d5--cute-twilight-64cc5e.netlify.app/addcontact)
+deployed using netlify(deployment link:https://cute-twilight-64cc5e.netlify.app)
 
 functionalities:
 1.create ,edit ,delete,display the users 
