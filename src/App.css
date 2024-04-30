@@ -1,0 +1,91 @@
+
+.butt{
+    width: 100%; /* w-3/4 */
+    background-color:lightgray; 
+    color:black; 
+    padding: 8px; /* p-2 */
+    align-self: center; /* self-center */
+    border: 2px solid #000;
+  }
+  .link-container {
+    margin-bottom: 8px; /* Adjust spacing between links if needed */
+  }
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    padding: 8px; /* p-4 */
+    flex-basis: 20%; /* basis-1/5 */
+    gap: 8px; /* gap-2 */
+    border-right: 2px solid black; /* Right side border style */
+    padding-right: 4px; /* Adjust the padding as needed */
+    
+  }
+  .navbut{
+    color: blue;
+    text-decoration: underline;
+    font-size: 30px;
+  }
+.head{
+    font-size:30px;
+}
+.divider {
+    border-top: 1px solid black; /* Style and color of the separation line */
+    margin: 8px 0; /* Adjust the margin to control the space above and below the line */
+  }
+.hi{
+    border: 2px solid #000;
+    font-size: 30px;
+    background-color:whitesmoke;
+}
+.edbut{
+ color: white;
+ background-color: lightgreen;
+ border:2x solid #000;
+}
+.delbut{
+    color: white;
+    background-color: lightcoral;
+    border:2x solid #000;
+}
+.edi{
+    display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.editBody {
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aliceblue;
+    /* border:2px solid black; */
+    padding: 1rem; /* Adjust padding as needed */
+  }
+.hello{
+    gap: 10px; 
+}
+.header {
+    position: fixed;
+    z-index: 50;
+    width: 100%;
+    top: 0;
+    background-color: #4285f4; /* Blue color */
+    color: #000; /* Black text color */
+    font-size: 2rem; /* 2xl text size */
+    font-weight: bold; /* Bold text */
+    padding: 1rem 2rem; /* Padding */
+    text-align: center; /* Center text */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow */
+  }
+  .element {
+    font-family: "Times New Roman", Times, serif;
+  }
+.cent{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh; /* Viewport height */
+}  
+  
+  
